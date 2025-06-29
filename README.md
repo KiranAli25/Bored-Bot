@@ -23,4 +23,6 @@
 3. The app receives a random activity object.
 4. The activity is rendered dynamically in the browser.
 
+Web App link: https://kiranali25.github.io/Bored-Bot/
+
 
